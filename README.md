@@ -4,7 +4,7 @@
 
 ### Install
 
-Install: [apps/cr-gpt](https://github.com/apps/cr-gpt);
+Install: [apps/cr-gpt](https://github.com/apps/chatgpt-cr);
 
 ### Configuration
 1. Go to the repo homepage which you want integrate this bot
